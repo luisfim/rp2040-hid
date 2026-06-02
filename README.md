@@ -4,8 +4,11 @@ A simple project using a RP2040-based development board configured as a USB Huma
 
 When connected to a computer, the device is recognized as a USB keyboard and automatically opens Notepad before typing a predefined message.
 
-## Features
+## Warning
 
+This project emulates a USB keyboard and automatically sends keystrokes when connected to a computer. Review the source code before flashing and connecting the device to ensure you understand the programmed behavior.
+
+## Features
 * USB HID keyboard emulation
 * Automatic applications launch
 * Automated text input
