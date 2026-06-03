@@ -35,7 +35,7 @@ Example output:
 
 <p align="left">
   <a href="https://youtu.be/6FMOKMS3Py8?si=xIg7YxXO7Y76O8jH">
-    <img src="img1.jpeg" width="300">
+    <img src="img1.jpeg" width="500">
   </a>
 </p>
 
