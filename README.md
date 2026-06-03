@@ -17,6 +17,7 @@ This project emulates a USB keyboard and automatically sends keystrokes when con
 ## Hardware
 * YANXD RP2040 MINI USB Development Board ([Recommended Link](https://pt.aliexpress.com/item/1005009725375348.html))
 ![RP2040 HID Demo](img2.jpeg)
+<img src="img.jpeg" width="300">
 
 ## SOFTWARE
 * Arduino IDE
