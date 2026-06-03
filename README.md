@@ -15,7 +15,8 @@ This project emulates a USB keyboard and automatically sends keystrokes when con
 * RP2040 microcontroller implementation
   
 ## Hardware
-* YANXD RP2040 MINI USB Development Board
+* YANXD RP2040 MINI USB Development Board [Recommended Link]([https://example.com](https://pt.aliexpress.com/item/1005009725375348.html?spm=a2g0o.order_list.order_list_main.59.1e4c1802bJ0jjY&gatewayAdapt=glo2bra))
+  ![RP2040 HID Demo](demo.jpg)
 
 ## SOFTWARE
 * Arduino IDE
@@ -46,6 +47,9 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 5. Search for **RP2040** and install the package by Earle F. Philhower.
 6. Select your RP2040 board from **Tools → Board**.
 7. Connect the board and upload the code.
+8. You can edit the delay on the "delay(3000);", currently set to 3 seconds (that worked on slower computers that took sometime to even open notepad), to anytime you want.
+9. You can edit the "Keyboard.println("notepad");" to open any program.
+10. You can edit the "Keyboard.println("You were hacked, lol");" to type anything you wwish.
 
 ### Boot Mode
 If the board is not detected by the Arduino IDE:
