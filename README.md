@@ -77,5 +77,12 @@ This project was created to learn:
 
 * USB HID device development
 * RP2040 programming
-* Embedded systems fundamentals
 * Computer input automation
+
+## Future Features
+* Opening Command Prompt or PowerShell automatically.
+* Supporting multiple selectable payloads.
+* LED indicators for device status and execution progress.
+* A 3D-printed enclosure designed specifically for the board.
+* A configuration utility for creating custom messages without modifying the source code.
+
