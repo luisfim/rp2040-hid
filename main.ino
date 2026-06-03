@@ -20,7 +20,7 @@ void setup() {
   Keyboard.println("notepad");
   Keyboard.write(KEY_RETURN);
   delay(3000);
-  Keyboard.println("Vc foi hackeado");
+  Keyboard.println("You were hacked, lol");
 
   Keyboard.end();
 }
