@@ -31,6 +31,15 @@ After connecting the device:
 Example output:
 "You were just hacked, lol."
 
+## Demonstration
+
+<p align="center">
+  <a href="https://youtu.be/6FMOKMS3Py8?si=xIg7YxXO7Y76O8jH">
+    <img src="img1.jpeg" width="300">
+  </a>
+</p>
+
+
 ## Setup
 
 ### Arduino IDE
